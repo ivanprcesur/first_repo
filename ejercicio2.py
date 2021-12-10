@@ -18,4 +18,4 @@ while intentos > 1 :
     print ("ACERTASTE EL NUMERO")
     break
 
-print ("se acabaron tus intentos")
+print ("se acabaron tus intentos intentalo bien bien")
